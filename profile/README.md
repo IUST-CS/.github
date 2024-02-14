@@ -5,5 +5,5 @@
     School of Mathematics and Computer Science
   </h1>
 
-  <img src="images/school.jpg"/>
+  <img src="https://github.com/IUST-CS/.github/blob/main/profile/images/school.jpg?raw=true"/>
 </div>
