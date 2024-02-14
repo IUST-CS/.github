@@ -4,4 +4,6 @@
     <br>
     School of Mathematics and Computer Science
   </h1>
+
+  <img src="images/school.jpg"/>
 </div>
